@@ -1,0 +1,40 @@
+Once the project is running:
+1) Login & Signup
+    1.1) Select the navbar option for Signup
+    1.2) Sign up using valid email and password combination
+    1.3) Redirected to home page
+    1.4) Select the navbar option for Log Out
+    1.5) Token removed & navbar options update
+    1.6) Select the navbar option for Login
+    1.7) Log in using valid email and password combination
+    1.8) Redirected to home page
+
+2) Home Page & Search
+    2.1) Select Home navbar option
+    2.2) View a list of products pulled from our firebase database
+    2.3) Click the search bar to and enter text
+    2.4) Products display filtered results
+
+3) Contact Seller
+    3.1) Navigate to home page
+    3.2) Find a product to buy
+    3.3) Click Contact button
+    3.4) Email opens with subject and seller email filled
+
+4) Create Product
+    4.1) Select the pencil navbar option
+    4.2) Enter product details & optionally attach image
+    4.3) Hit the 'Sell' button
+    4.4) Product posted to market and navigated to home page
+
+5) Profile & Re/Unlist Product
+    5.1) View created product on home page
+    5.2) Select Profile navbar option
+    5.3) View list of logged in users products
+    5.4) View product metadata
+    5.5) Unlist product
+    5.6) Navigate to home page and see product has been removed
+    5.7) Relist product
+    5.8) Navigate to home page and see product has been re-added
+    5.9) Select trash icon to delete product
+    5.8) Product removed from home page and profile
